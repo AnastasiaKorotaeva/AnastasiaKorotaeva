@@ -40,7 +40,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
    <a href="mailto:korotaeva11a@mail.ru" target="_blank">
-      <img src="https://github.com/AnastasiaKorotaeva/AnastasiaKorotaeva/assets/80717501/22354da4-4874-49d4-8e0b-636c7004ab34" width="40" height="40" />
+      <img src="https://github.com/AnastasiaKorotaeva/AnastasiaKorotaeva/assets/80717501/3a6a1eae-133d-44a6-aa18-3035da875376" width="40" height="40" />
     </a>
   </div>     
 Не стесняйтесь связаться со мной по любым вопросам, предложениям или просто для общения!🤝
