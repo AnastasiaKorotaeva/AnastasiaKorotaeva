@@ -28,13 +28,13 @@
 
 В этом проекте разработаны базовые утилиты Bash(cat и grep) по работе с текстами на языке программирования Си.
 
-### [2. s21_string.h](https://github.com/AnastasiaKorotaeva/)
-
-Краткое описание проекта.
-
-### [3. s21_math.h](https://github.com/AnastasiaKorotaeva/s21_math)
+### [2. s21_math.h](https://github.com/AnastasiaKorotaeva/s21_math)
 
 В данном проекте разработана собственная версия стандартной библиотеки math.h (реализующая базовые математические операции) на языке программирования Си. 
+
+### [3. s21_string.h](https://github.com/AnastasiaKorotaeva/s21_string)
+
+В данном проекте разработана собственная реализация библиотеки string.h(библиотека по обработке строк) на языке программирования Си с реализацией функции sprintf.
 
 ### [4. s21_matrix.h](https://github.com/AnastasiaKorotaeva/)
 
