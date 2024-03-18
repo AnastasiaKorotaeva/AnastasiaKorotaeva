@@ -36,9 +36,9 @@
 
 В данном проекте разработана собственная реализация библиотеки string.h(библиотека по обработке строк) на языке программирования Си с реализацией функции sprintf.
 
-### [4. s21_matrix.h](https://github.com/AnastasiaKorotaeva/)
+### [4. s21_matrix.h](https://github.com/AnastasiaKorotaeva/s21_matrix)
 
-Краткое описание проекта.
+В данном проекте реализована своя библиотека для обработки числовых матриц на языке программирования Си.
 
 ### [5. s21_SmartCalc](https://github.com/AnastasiaKorotaeva/)
 
