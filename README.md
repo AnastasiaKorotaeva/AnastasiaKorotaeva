@@ -29,7 +29,7 @@
 - **[s21_string.h](https://github.com/AnastasiaKorotaeva/s21_string):** Реализация библиотеки string.h с функцией sprintf на Си.
 - **[s21_matrix.h](https://github.com/AnastasiaKorotaeva/s21_matrix):** Библиотека для обработки числовых матриц на Си.
 - **[s21_SmartCalc](https://github.com/AnastasiaKorotaeva/SmartCalc):** Расширенный калькулятор на Си с поддержкой арифметических операций, математических функций, переменной x и графиков. Дополнительно включены кредитный и депозитный калькуляторы.
-- **[s21_3DViewer](https://github.com/AnastasiaKorotaeva/):** Краткое описание проекта.
+- **[s21_3DViewer](https://github.com/AnastasiaKorotaeva/3DView):** Программа на Си для просмотра 3D моделей в формате .obj. Функции: вращение, масштабирование, перемещение.
 
 ## Связаться со мной
 
