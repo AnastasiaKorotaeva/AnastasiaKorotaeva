@@ -21,6 +21,15 @@
 - *Языки программирования:* SQL, C/C++, HTML, CSS
 - *Фреймворки и инструменты:* Git, CI/CD, GitLab, Linux, PostgreSQL, Docker, MS Office
 - *Области знаний/навыки:* ООП, Веб-программирование, Управление временем
+  
+## Проекты
+
+- **[s21_cat_grep](https://github.com/AnastasiaKorotaeva/s21_cat_grep):** Базовые утилиты Bash на Си.
+- **[s21_math.h](https://github.com/AnastasiaKorotaeva/s21_math):** Собственная версия библиотеки math.h на Си.
+- **[s21_string.h](https://github.com/AnastasiaKorotaeva/s21_string):** Реализация библиотеки string.h с функцией sprintf на Си.
+- **[s21_matrix.h](https://github.com/AnastasiaKorotaeva/s21_matrix):** Библиотека для обработки числовых матриц на Си.
+- **[s21_SmartCalc](https://github.com/AnastasiaKorotaeva/SmartCalc):** Расширенный калькулятор на Си с поддержкой арифметических операций, математических функций, переменной x и графиков. Дополнительно включены кредитный и депозитный калькуляторы.
+- **[s21_3DViewer](https://github.com/AnastasiaKorotaeva/):** Краткое описание проекта.
 
 ## Проекты
 
